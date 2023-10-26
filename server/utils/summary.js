@@ -1,0 +1,1 @@
+export const summaryExemple = "O javascript é uma linguagem de programação voltada para o desenvolvimento web."
